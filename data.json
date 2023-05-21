@@ -1,0 +1,24 @@
+{
+    "name": "@StasGavrilov",
+    "avatar": "/public/images/profile.jpg",
+    "links": [
+        {
+            "title": "Github",
+            "href": "https://github.com/StasGavrilov"
+        },
+        {
+            "title": "Linkedin",
+            "href": "https://www.linkedin.com/in/stas-gavrilov-0a16b4195/"
+        },
+        {
+            "title": "Leetcode",
+            "href": "https://leetcode.com/stasgavrilov485/"
+        }
+    ],
+    "socials": [
+        {
+            "title": "OnlyFans",
+            "href": "https://onlyfans.com/stasgavrilov2"
+        }
+    ]
+}
