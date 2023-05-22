@@ -1,24 +1,48 @@
 {
     "name": "@StasGavrilov",
-    "avatar": "/public/images/profile.jpg",
+    "avatar": "/images/profile.jpg",
     "links": [
         {
             "title": "Github",
-            "href": "https://github.com/StasGavrilov"
+            "href": "https://github.com/StasGavrilov",
+            "image": "/images/profile.jpg"
         },
         {
             "title": "Linkedin",
-            "href": "https://www.linkedin.com/in/stas-gavrilov-0a16b4195/"
+            "href": "https://www.linkedin.com/in/stas-gavrilov-0a16b4195/",
+            "image": "/images/profile.jpg"
         },
         {
             "title": "Leetcode",
-            "href": "https://leetcode.com/stasgavrilov485/"
+            "href": "https://leetcode.com/stasgavrilov485/",
+            "image": "/images/profile.jpg"
+        },
+        {
+            "title": "OnlyFans",
+            "href": "https://onlyfans.com/stasgavrilov2",
+            "image": "/images/profile.jpg"
         }
     ],
     "socials": [
         {
-            "title": "OnlyFans",
-            "href": "https://onlyfans.com/stasgavrilov2"
+            "title": "Instagram",
+            "href": "https://www.instagram.com/stasgavrilov2/"
+        },
+        {
+            "title": "Facebook",
+            "href": "https://www.facebook.com/stas.gavrilov.9/"
+        },
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/gavrilovstas2"
+        },
+        {
+            "title": "Youtube",
+            "href": "https://www.youtube.com/channel/UCWQwhVUs-X4SB5F6EzBQDcg"
+        },
+        {
+            "title": "TikTok",
+            "href": "https://www.tiktok.com/@stasgavrilov3"
         }
     ]
 }
