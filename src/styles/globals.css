@@ -8,3 +8,12 @@
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
+
+svg {
+    width: 36px;
+    height: 36px;
+}
+
+path {
+    color: white;
+}
