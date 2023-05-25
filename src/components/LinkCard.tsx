@@ -11,6 +11,7 @@ export default function LinkCard({ title, href, image }: ILinkCard) {
         <a
             className="flex item-center p-1 rounded-md hover:scale-105 transition-all w-full mb-3 bg-gray-600 max-w-3xl"
             href={href}
+            target="_blank"
         >
             <div className="flex text-center w-full">
                 {image && (

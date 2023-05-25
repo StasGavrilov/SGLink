@@ -21,7 +21,7 @@ export default function Home() {
 
       {data.links.map(link => <LinkCard key={link.href} {...link} />)}
 
-      <div className="mt-36">SGLink❤</div>
+      <div className="mt-32 font-bold text-xl">SGLink❤</div>
     </div>
   )
 }

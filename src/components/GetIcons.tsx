@@ -11,19 +11,39 @@ export default function GetIcons() {
         <div className="flex gap-2 -mt-28 mb-10">
             {data.socials.map(social => {
                 if (social.href.includes('facebook')) {
-                    return <Facebook />
+                    return (
+                        <a href={social.href} target="_blank">
+                            <Facebook />
+                        </a>
+                    )
                 }
                 if (social.href.includes('instagram')) {
-                    return <Instagram />
+                    return (
+                        <a href={social.href} target="_blank">
+                            <Instagram />
+                        </a>
+                    )
                 }
                 if (social.href.includes('tiktok')) {
-                    return <Tiktok />
+                    return (
+                        <a href={social.href} target="_blank">
+                            <Tiktok />
+                        </a>
+                    )
                 }
                 if (social.href.includes('youtube')) {
-                    return <Youtube />
+                    return (
+                        <a href={social.href} target="_blank">
+                            <Youtube />
+                        </a>
+                    )
                 }
                 if (social.href.includes('twitter')) {
-                    return <Twitter />
+                    return (
+                        <a href={social.href} target="_blank">
+                            <Twitter />
+                        </a>
+                    )
                 }
             })}
         </div>
