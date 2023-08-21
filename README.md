@@ -1,5 +1,6 @@
-SGLink app
+Introducing the 'SG-Link' Application: Created by Stas Gavrilov.
+Why spend money when you have the power to build it yourself?
 
-A link application made my Stas Gavrilov, why to pay when you can build?
+![Logo](public/images/SGL.png){:.center}
 
-:)
+@StasGavrilov

@@ -3,13 +3,13 @@ import '../styles/globals.css'
 export const metadata = {
   title: 'SGLink',
   description: 'A links app',
-  link: 'SG'
+  icons: '/images/SGL.png'
 }
 
 export default function RootLayout({ children, }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className='bg-gradient-to-r from-gray-500 to-gray-400'>
+      <body className='bg-gradient-to-r from-emerald-500 to-emerald-900'>
         {children}
       </body>
     </html>

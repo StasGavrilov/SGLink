@@ -17,3 +17,7 @@ svg {
 path {
     color: white;
 }
+
+.center {
+    text-align: center;
+}
