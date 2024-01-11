@@ -10,15 +10,17 @@ export default function Home() {
       <Image
         alt={data.name}
         src={data.avatar}
-        width={96}
-        height={96}
+        width={104}
+        height={104}
         className="rounded-full"
       />
 
-      <h1 className="font-bold mt-4 mb-40 text-xl">{data.name}</h1>
+      <h1 className="font-bold mt-4 text-xl">{data.name}</h1>
+      <h2 className="font-bold mt-4 mb-32 text-sm">{data.description}</h2>
 
       <GetIcons />
 
+      {data.naughty.map(link => <LinkCard key={link.href} {...link} />)}
       {data.links.map(link => <LinkCard key={link.href} {...link} />)}
 
       <div className="mt-32 font-bold text-xl">SGLink❤</div>

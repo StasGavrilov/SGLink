@@ -1,6 +1,9 @@
 {
     "name": "@StasGavrilov",
-    "avatar": "/images/profile.jpg",
+    "avatar": "/images/profile.jpeg",
+    "description": "From the place of LOVE.",
+    "name1": "naughty",
+    "name2": "links",
     "links": [
         {
             "title": "Github",
@@ -16,6 +19,23 @@
             "title": "Leetcode",
             "href": "https://leetcode.com/stasgavrilov485/",
             "image": "/images/leetcode.png"
+        }
+    ],
+    "naughty": [
+        {
+            "title": "OnlyFans",
+            "href": "https://onlyfans.com/stasgavrilov2",
+            "image": "/images/onlyfans.png"
+        },
+        {
+            "title": "Patreon",
+            "href": "https://www.patreon.com/StasGavrilov",
+            "image": "/images/patreon.png"
+        },
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/gavrilovstas2",
+            "image": "/images/fanfixxx.jpg"
         }
     ],
     "socials": [

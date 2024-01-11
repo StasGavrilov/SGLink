@@ -9,7 +9,7 @@ interface ILinkCard {
 export default function LinkCard({ title, href, image }: ILinkCard) {
     return (
         <a
-            className="flex item-center p-1 rounded-md hover:scale-105 transition-all w-full mb-3 bg-gradient-to-r from-teal-200 to-teal-500 max-w-3xl"
+            className="flex item-center p-1 rounded-md hover:scale-105 transition-all w-full mb-3 bg-light max-w-3xl"
             href={href}
             target="_blank"
         >
@@ -18,8 +18,8 @@ export default function LinkCard({ title, href, image }: ILinkCard) {
                     <Image
                         alt={title}
                         src={image}
-                        width={40}
-                        height={40}
+                        width={45}
+                        height={45}
                         className="rounded-sm"
                     />
                 )}
