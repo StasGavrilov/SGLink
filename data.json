@@ -24,6 +24,11 @@
             "title": "Amazon",
             "href": "https://www.amazon.com/gp/profile/amzn1.account.AH6XYXSUTR36UUA66C6BC4OM6W2A?ie=UTF8&ref_=ya_mb_l_prf",
             "image": "/images/amazon.png"
+        },
+        {
+            "title": "Snapshot",
+            "href": "https://www.snapchat.com/add/stasgavrilov3",
+            "image": "/images/snapshot.png"
         }
     ],
     "socials": [
