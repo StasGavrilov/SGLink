@@ -4,23 +4,6 @@
     "description": "From the place of LOVE.",
     "name1": "naughty",
     "name2": "links",
-    "links": [
-        {
-            "title": "Github",
-            "href": "https://github.com/StasGavrilov",
-            "image": "/images/github.jpg"
-        },
-        {
-            "title": "Linkedin",
-            "href": "https://www.linkedin.com/in/stas-gavrilov-0a16b4195/",
-            "image": "/images/linkedin.png"
-        },
-        {
-            "title": "Leetcode",
-            "href": "https://leetcode.com/stasgavrilov485/",
-            "image": "/images/leetcode.png"
-        }
-    ],
     "naughty": [
         {
             "title": "OnlyFans",
@@ -31,6 +14,21 @@
             "title": "Patreon",
             "href": "https://www.patreon.com/StasGavrilov",
             "image": "/images/patreon.png"
+        },
+        {
+            "title": "Paypal",
+            "href": "https://www.paypal.me/stasgav",
+            "image": "/images/paypal.png"
+        },
+        {
+            "title": "Amazon",
+            "href": "https://www.amazon.com/gp/profile/amzn1.account.AH6XYXSUTR36UUA66C6BC4OM6W2A?ie=UTF8&ref_=ya_mb_l_prf",
+            "image": "/images/amazon.png"
+        },
+        {
+            "title": "Snapshot",
+            "href": "https://www.snapchat.com/add/stasgavrilov3",
+            "image": "/images/snapshot.png"
         }
     ],
     "socials": [
